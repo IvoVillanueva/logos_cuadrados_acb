@@ -1,19 +1,19 @@
-id_equipo,abb,equipo,logo,color
-2,BAR,Barça,https://static.acb.com/img/www/clubes2024/2324BarcaLogoweb.png,#154284
-3,BKN,Baskonia,https://static.acb.com/logos/1718/baskonia_00.png,#C8102E
-591,GIR,Bàsquet Girona,https://static.acb.com/img/www/clubes2023/BASQUET-GIRONA-Logonegativo2223.png,#D5001E
-10,BAX,BAXI Manresa,https://static.acb.com/img/5b/60/d/75575.png,#B32836
-16,CAZ,Casademont Zaragoza,https://static.acb.com/img/www/clubes2024/2425CasademontZaragoza.png,#C8102E
-592,COV,Coviran Granada,https://static.acb.com/img/www/clubes2023/coviran-granada_logopositivo.png,#C2213C
-5,DGC,Dreamland Gran Canaria,https://static.acb.com/img/25/56/4a/75557.png,#FFB718
-658,HIO,Hiopos Lleida,https://static.acb.com/img/www/clubes2024/2425HioposLleida_positivo.png,#AB1254
-8,JOV,Joventut Badalona,https://static.acb.com/img/e/53/16/1453195579.png,#2F8E62
-28,LLT,La Laguna Tenerife,https://static.acb.com/img/www/clubes2024/2425LaLagunaTenerifeLogo.png,#E9CD5F
-657,COR,Leyma Coruña,https://static.acb.com/img/www/clubes2024/2425BCoruna.png,#E85204
-22,MBA,MoraBanc Andorra,https://static.acb.com/img/10/45/4d/75539.png,#0165BA
-9,RMB,Real Madrid,https://static.acb.com/img/www/clubes2023/RealMadridLogo202223.png,#FEBE10
-25,BRE,Río Breogán,https://static.acb.com/logos/1718/breogan_00.png,#85ADEA
-4,SBB,Surne Bilbao Basket,https://static.acb.com/img/www/clubes2022/logo_surnebb_pos.png,#000000
-12,UCM,UCAM Murcia,https://static.acb.com/img/www/clubes2024/2425UCAMMurciapositivo.png,#A51A14
-14,UNI,Unicaja,https://static.acb.com/img/www/clubes2024/2324UnicajaLogo.png,#3D9C35
-13,VBC,Valencia Basket,https://static.acb.com/img/23/2/25/1654748673.png,#FC6C0F
+id_equipo,abb,equipo,logo,logo_negativo,color
+2,BAR,Barça,https://static.acb.com/img/www/clubes2024/2324BarcaLogoweb.png,https://static.acb.com/img/www/clubes2024/2324BarcaLogoweb.png,#154284
+3,BKN,Baskonia,https://static.acb.com/logos/1718/baskonia_00.png,https://static.acb.com/logos/1718/baskonia_00.png,#C8102E
+591,GIR,Bàsquet Girona,https://static.acb.com/img/www/clubes2023/BASQUET-GIRONA-Logonegativo2223.png,https://static.acb.com/img/www/clubes2023/BASQUET-GIRONA-Logonegativo2223.png,#D5001E
+10,BAX,BAXI Manresa,https://static.acb.com/img/5b/60/d/75575.png,https://static.acb.com/img/5b/60/d/75575.png,#B32836
+16,CAZ,Casademont Zaragoza,https://static.acb.com/img/www/clubes2024/2425CasademontZaragoza.png,https://static.acb.com/img/www/clubes2024/2425CasademontZaragoza.png,#C8102E
+592,COV,Coviran Granada,https://static.acb.com/img/www/clubes2023/coviran-granada_logopositivo.png,https://static.acb.com/img/www/clubes2023/coviran-granada_logopositivo.png,#C2213C
+5,DGC,Dreamland Gran Canaria,https://static.acb.com/img/25/56/4a/75557.png,https://static.acb.com/img/25/56/4a/75557.png,#FFB718
+658,HIO,Hiopos Lleida,https://static.acb.com/img/www/clubes2024/2425HioposLleida_positivo.png,https://static.acb.com/img/www/clubes2024/2425HioposLleida_positivo.png,#AB1254
+8,JOV,Joventut Badalona,https://static.acb.com/img/e/53/16/1453195579.png,https://static.acb.com/img/e/53/16/1453195579.png,#2F8E62
+28,LLT,La Laguna Tenerife,https://static.acb.com/img/www/clubes2024/2425LaLagunaTenerifeLogo.png,https://static.acb.com/img/www/clubes2024/2425LaLagunaTenerifeLogoneg.png,#E9CD5F
+657,COR,Leyma Coruña,https://static.acb.com/img/www/clubes2024/2425BCoruna.png,https://static.acb.com/img/www/clubes2024/2425BCoruna.png,#E85204
+22,MBA,MoraBanc Andorra,https://static.acb.com/img/10/45/4d/75539.png,https://static.acb.com/img/10/45/4d/75539.png,#0165BA
+9,RMB,Real Madrid,https://static.acb.com/img/www/clubes2023/RealMadridLogo202223.png,https://static.acb.com/img/www/clubes2023/RealMadridLogo202223.png,#FEBE10
+25,BRE,Río Breogán,https://static.acb.com/logos/1718/breogan_00.png,https://static.acb.com/logos/1718/breogan_00.png,#85ADEA
+4,SBB,Surne Bilbao Basket,https://static.acb.com/img/www/clubes2022/logo_surnebb_pos.png,https://static.acb.com/img/www/clubes2022/logo_surnebb_neg.png,#000000
+12,UCM,UCAM Murcia,https://static.acb.com/img/www/clubes2024/2425UCAMMurciapositivo.png,https://static.acb.com/img/www/clubes2024/2425UCAMMurcianegativo.png,#A51A14
+14,UNI,Unicaja,https://static.acb.com/img/www/clubes2024/2324UnicajaLogo.png,https://static.acb.com/img/www/clubes2024/2324UnicajaLogo.png,#3D9C35
+13,VBC,Valencia Basket,https://static.acb.com/img/23/2/25/1654748673.png,https://static.acb.com/img/23/2/25/1654748673.png,#FC6C0F
